@@ -25,4 +25,6 @@ public class studentCEIV extends  student{
         s1.giveExam();
         s1.payfee();
     }
-}
+} 
+Delete studentCEIV.java
+    
