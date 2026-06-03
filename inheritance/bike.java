@@ -6,4 +6,3 @@ class bike extends vehicle{
         super(tires,horns);
     }
 }
-
